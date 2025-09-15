@@ -8,7 +8,7 @@ Bu panel, yurt memurlarının ve yöneticilerin yurt içi süreçleri **kolayca 
 
 ## ⚙️ Özellikler
 
-- Öğrencilerin yemek menülerini ekleme/güncelleme  
+- Öğrencilerin yemek menülerini ekleme
 - Çamaşırhane ve spor salonu rezervasyonlarını onaylama  
 - Arıza ve oda değişikliği taleplerini yönetme  
 - Duyuru ve etkinlik takvimi paylaşma  
