@@ -1,0 +1,52 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.flexdire-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-container {
+  border-radius: 8px;
+  background-color: white;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  height: 400px;
+}
+
+.div-container {
+  height: 100vh;
+  background-color: #2F4F4F;
+}
+
+.home-cont {
+  height: 100vh;
+  background-color: #2F4F4F;
+}
+
+.duyuru-cont {
+  height: 100vh;
+  background-color: rgb(154, 183, 216);
+}
+
+.duyuru-form {
+  border-radius: 8px;
+  background-color: white;
+  width: 450px;
+  text-align: center;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  height: 500px;
+}
+
+.yemek-form {
+  border-radius: 8px;
+  background-color: white;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
